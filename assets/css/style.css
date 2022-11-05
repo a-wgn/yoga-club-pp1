@@ -76,4 +76,16 @@ h3 {
     background: url(../images/hero-image.jpeg) no-repeat center center;
 }
 
+/* About Yoga Club */
+#intro-style {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+#about-us ul {
+    font-size: 1.5rem;
+    margin-top: 10px;
+    margin-left: 30px;
+    text-align: left;
+}
 
