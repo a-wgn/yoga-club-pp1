@@ -154,3 +154,36 @@ h3 {
         margin-top: 30px;
         font-size: 1.5rem;
     }
+
+    #form-align {
+        text-align: center;
+    }
+    
+    .fields {   
+        width: 25%;
+        height: 30px;
+        border: 1px solid black;
+        display: inline-flex;
+    }
+    
+    #classes-select{
+        width: 25%;
+        height: 30px;
+        border: 1px solid black;
+    }
+    
+    label, input {
+        display:flex;
+        justify-content: center;
+        margin-top: 10px;
+    }
+    
+    input[type=submit] {
+        display: block;
+        margin: 0 auto;
+        margin-top: 10px;
+        font-size: 20px;
+        font-family: Kalam, sans-serif;
+        color: black;
+        background-color: transparent;
+    }
