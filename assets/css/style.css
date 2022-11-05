@@ -33,3 +33,38 @@ h3 {
 }
 
 /* Logo and navigiation bar */
+#logo {
+    float: left;
+    font-size: 200;
+    color: black
+}
+
+#nav-bar {
+    font-size: 120%;
+    letter-spacing: 1px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#nav-bar li {
+    float: right;
+    list-style-type: none;
+    margin-right: 2em;
+}
+
+#nav-bar a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#nav-bar a:hover {
+    border-bottom: 1px solid black;
+}
+
+.active-border {
+    border-bottom: 1px solid black;
+}
+
+#nav-bar, #logo {
+    line-height: 75px;
+}
