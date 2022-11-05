@@ -138,52 +138,66 @@ h3 {
 
     /* Styling for table */
 
-    table, th, td {
-        border: 1px solid;
-    }
+table, th, td {
+    border: 1px solid;
+}
     
-    table {
-        width: 30%;
-        text-align: center;
-        margin-bottom: 20px;
-    }
+table {
+    width: 30%;
+    text-align: center;
+    margin-bottom: 20px;
+}
     
-    #table-styling {
-        margin-left:auto; 
-        margin-right:auto;
-        margin-top: 30px;
-        font-size: 1.5rem;
-    }
+#table-styling {
+    margin-left:auto; 
+    margin-right:auto;
+    margin-top: 30px;
+    font-size: 1.5rem;
+}
+/* form section */
 
-    #form-align {
-        text-align: center;
-    }
+#form-align {
+    text-align: center;
+}
     
-    .fields {   
-        width: 25%;
-        height: 30px;
-        border: 1px solid black;
-        display: inline-flex;
-    }
+.fields {   
+    width: 25%;
+    height: 30px;
+    border: 1px solid black;
+    display: inline-flex;
+}
     
-    #classes-select{
-        width: 25%;
-        height: 30px;
-        border: 1px solid black;
-    }
+#classes-select{
+    width: 25%;
+    height: 30px;
+    border: 1px solid black;
+}
     
-    label, input {
-        display:flex;
-        justify-content: center;
-        margin-top: 10px;
-    }
+label {
+    display:flex;
+    justify-content: center;
+    margin-top: 10px;
+    font-size: 1.5rem;
+}
     
-    input[type=submit] {
-        display: block;
-        margin: 0 auto;
-        margin-top: 10px;
-        font-size: 20px;
-        font-family: Kalam, sans-serif;
-        color: black;
-        background-color: transparent;
-    }
+input[type=submit] {
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    font-size: 1.5rem;
+    font-family: Kalam, sans-serif;
+    color: black;
+    background-color: transparent;
+}
+
+.bg-image {
+    background-image: url(../images/bg-image.jpg);
+    width: 100%;
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+}
+
+
