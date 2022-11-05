@@ -25,11 +25,11 @@ h1 {
 }
 
 h2 {
-    font-size: 2rem;
+    font-size: 2.5rem;
 }
 
 h3 {
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 
 /* Logo and navigiation bar */
@@ -89,3 +89,68 @@ h3 {
     text-align: left;
 }
 
+/* Classes section, style for images from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_opacity */
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 33.33%;
+    padding: 2px;
+}
+
+.container {
+    position: relative;
+    width: 50%;
+  }
+  
+  .image {
+    display: block;
+    height: auto;
+    transition: .5s;
+    backface-visibility: hidden;
+  }
+  
+  .middle {
+    transition: .8s;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+  .container:hover .image {
+    opacity: 0.3;
+  }
+  
+  .container:hover .middle {
+    opacity: 1;
+  }
+  
+  .text {
+    color: black;
+    font-size: 1.25rem;
+  }
+
+  /* Styling for table */
+
+  table, th, td {
+    border: 1px solid;
+}
+
+table {
+    width: 30%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#table-styling {
+    margin-left:auto; 
+    margin-right:auto;
+    margin-top: 30px;
+    font-size: 1.5rem;
+}
