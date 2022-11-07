@@ -50,6 +50,7 @@ h3 {
     float: right;
     list-style-type: none;
     margin-right: 2em;
+    position: relative;
 }
 
 #nav-bar a {
@@ -200,7 +201,7 @@ input[type=submit] {
 
 /* Contact us section*/ 
 
-#address-right {
+#address-center {
     margin-top: 15px;
     text-align: center;
     font-size: 1.5rem;
@@ -223,3 +224,18 @@ input[type=submit] {
     width: 20px;
   }
 
+/* Media queries */
+
+@media screen and (max-width:1200px) {
+    #table-styling {
+        width: 100%;
+    }
+
+    #nav-bar {
+        float: right;
+    }
+
+    #nav-bar li {
+        float: left;
+    }
+}
