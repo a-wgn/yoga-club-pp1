@@ -8,7 +8,7 @@
     border: none;
 }
 
-body, html {
+body {
     font-family: Kalam, sans-serif;
     font-weight: 400;
     color: black;
@@ -29,14 +29,15 @@ h2 {
 }
 
 h3 {
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 /* Logo and navigiation bar */
+
 #logo {
     float: left;
     font-size: 200;
-    color: black
+    color: black;
 }
 
 #nav-bar {
@@ -227,15 +228,33 @@ input[type=submit] {
 /* Media queries */
 
 @media screen and (max-width:1200px) {
-    #table-styling {
-        width: 100%;
+    header {
+        height: 150px;
+    }
+    
+    #nav-bar li {
+        float: left;
     }
 
     #nav-bar {
         float: right;
     }
+    
+    #table-styling {
+        width: 100%;
+    }
 
-    #nav-bar li {
-        float: left;
+    .fields, #classes-select {
+        width: 50%;
+    }
+}
+
+    @media screen and (max-width:950px) {
+    .row {
+        flex-direction: column;
+    }
+
+    .container {
+    width: 100%;
     }
 }
