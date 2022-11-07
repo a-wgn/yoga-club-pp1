@@ -184,10 +184,11 @@ input[type=submit] {
     display: block;
     margin: 0 auto;
     margin-top: 10px;
-    font-size: 1.5rem;
+    font-size: 30px;
     font-family: Kalam, sans-serif;
     color: black;
     background-color: transparent;
+    
 }
 
 .bg-image {
