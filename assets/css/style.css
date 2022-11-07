@@ -10,12 +10,10 @@
 
 body {
     font-family: Kalam, sans-serif;
-    font-weight: 400;
     color: black;
 }
 
 h1, h2, h3 {
-    color: black;
     letter-spacing: 1px;
     text-align: center;
 }
@@ -89,7 +87,6 @@ h3 {
     font-size: 1.5rem;
     margin-top: 10px;
     margin-left: 30px;
-    text-align: left;
 }
 
 /* Classes section, style for images from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_opacity */
@@ -152,10 +149,10 @@ table {
 }
     
 #table-styling {
+    margin-top: 20px;
+    font-size: 1.5rem;
     margin-left:auto; 
     margin-right:auto;
-    margin-top: 30px;
-    font-size: 1.5rem;
 }
 /* form section */
 
