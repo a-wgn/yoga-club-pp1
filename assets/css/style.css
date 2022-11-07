@@ -31,6 +31,10 @@ h3 {
 }
 
 /* Logo and navigiation bar */
+header {
+    height: 100px;
+}
+
 
 #logo {
     float: left;
@@ -226,12 +230,10 @@ input[type=submit] {
 /* Media queries */
 
 @media screen and (max-width:1200px) {
-    header {
-        height: 150px;
-    }
-    
+   
     #nav-bar li {
         float: left;
+        margin-right: 1rem;
     }
 
     #nav-bar {
@@ -247,12 +249,16 @@ input[type=submit] {
     }
 }
 
-    @media screen and (max-width:800px) {
+    @media screen and (max-width:950px) {
     .row {
         flex-direction: column;
     }
 
     .container {
     width: 100%;
+    }
+
+    header {
+        height: 150px;
     }
 }
