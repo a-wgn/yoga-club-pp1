@@ -112,6 +112,7 @@ header {
   .image {
     display: block;
     height: auto;
+    width: auto;
     transition: .5s;
     backface-visibility: hidden;
   }
@@ -223,11 +224,10 @@ input[type=submit] {
     margin-top: 20px;
     margin-bottom: 20px;
     padding: 10px;
-    font-size: 100px;
     width: 20px;
   }
 
-/* Media queries */
+/* Media queries to make site responsive on small devices  */
 
 @media screen and (max-width:1200px) {
    
@@ -247,10 +247,6 @@ input[type=submit] {
     .fields, #classes-select {
         width: 50%;
     }
-
-    header {
-        height: 130px;
-    }
 }
 
     @media screen and (max-width:950px) {
@@ -260,5 +256,9 @@ input[type=submit] {
 
     .container {
         width: 100%;
+    }
+
+    header {
+        height: 130px;
     }
 }
