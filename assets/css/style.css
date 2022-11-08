@@ -32,7 +32,7 @@ h3 {
 
 /* Logo and navigiation bar */
 header {
-    height: 100px;
+    height: 75px;
 }
 
 
@@ -247,6 +247,10 @@ input[type=submit] {
     .fields, #classes-select {
         width: 50%;
     }
+
+    header {
+        height: 130px;
+    }
 }
 
     @media screen and (max-width:950px) {
@@ -255,10 +259,6 @@ input[type=submit] {
     }
 
     .container {
-    width: 100%;
-    }
-
-    header {
-        height: 150px;
+        width: 100%;
     }
 }
