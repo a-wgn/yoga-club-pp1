@@ -184,6 +184,8 @@ input[type=submit] {
     font-family: Kalam, sans-serif;
     color: black;
     background-color: transparent;
+    width: 10%;
+    border: solid 1px black;
     
 }
 
