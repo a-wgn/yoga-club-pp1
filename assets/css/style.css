@@ -31,10 +31,6 @@ h3 {
 }
 
 /* Logo and navigiation bar */
-header {
-    height: 75px;
-}
-
 
 #logo {
     float: left;
@@ -52,7 +48,7 @@ header {
 #nav-bar li {
     float: right;
     list-style-type: none;
-    margin-right: 2em;
+    margin-right: 1.5em;
     position: relative;
 }
 
@@ -62,10 +58,6 @@ header {
 }
 
 #nav-bar a:hover {
-    border-bottom: 1px solid black;
-}
-
-.active-border {
     border-bottom: 1px solid black;
 }
 
@@ -222,8 +214,6 @@ input[type=submit] {
     text-decoration: none;
     margin-top: 20px;
     margin-bottom: 20px;
-    padding: 10px;
-    width: 20px;
   }
 
 /* Media queries to make site responsive on small devices  */
