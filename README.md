@@ -69,3 +69,34 @@ The footer provides the social media pages of Yoga Club, which are being opened 
 
 - Accessibility 
     - I confirmed that the website easy to read in reagrds to the choosen color and font and is accessible by running it through Lighthous in the Developer Tools in Chrome. The test has been completed for mobile and desktop. 
+
+## Unfixed Bugs 
+
+- No unfixed bugs 
+
+## Deployment 
+
+The site was deployed to GitHub Pages. 
+
+- The steps to deploy the are as follow: 
+    - In the GitHub repository, navigate to the Settings tab
+    - Choose Pages from the left side menu.
+    - Select the Master Branch from the source section drop-down menu.
+    - The page will automatically be refreshed with a detailed ribbon display to indicate that the deployment was successful.
+
+
+The live link can be found here - Yoga Club 
+
+
+## Credits 
+
+- The CSS code for the image overlay in the Classes section was taken from: 
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_opacity
+
+- The code for the social media icons was taken from: https://www.w3schools.com/icons/fontawesome_icons_brand.asp, https://www.w3schools.com/icons/fontawesome_icons_intro.asp
+
+- The text which is in the image overlay was taken from: https://www.healthline.com/health/fitness/yin-yoga-poses, https://www.byrdie.com/hot-yoga-5091939, https://www.healthline.com/health/exercise-fitness/hatha-vs-vinyasa
+
+## Media 
+
+- The images for the hero-image, classes and sign up was taken from Pexels. 
