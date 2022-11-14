@@ -85,7 +85,7 @@ The site was deployed to GitHub Pages.
     - The page will automatically be refreshed with a detailed ribbon display to indicate that the deployment was successful.
 
 
-The live link can be found here - Yoga Club 
+The live link can be found here - [Yoga Club](https://a-wgn.github.io/yoga-club-pp1/)
 
 
 ## Credits 
