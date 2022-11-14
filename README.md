@@ -4,6 +4,8 @@ The website of Yoga Club is offereing classes for yogis on different leves. This
 
 The website of Yoga Club provides the information about who Yoga Club is and the offerings in provides to their customers. Also customers have the ability to see the classes Yoga Club is offering as well as an sign up form and the location of the studio. Furthermore, users have the option to follow Yoga Club on social media. 
 
+![responsive](https://user-images.githubusercontent.com/114663540/201791642-e9f65474-b57d-44aa-a138-2aa1ca6cfae8.png)
+
 ## Features 
 
 - Navigation 
