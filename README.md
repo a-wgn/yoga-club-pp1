@@ -30,4 +30,13 @@ The table provides the user with a quick overview of the timetable, as well as t
 
 - "Sign up section" 
 
-Users can sign uo for a class, using the "Sign up" form. The form requires that the name and email field is filled out and also give the user the option to chose one of the three classes from the dropdown menu. 
+Users can sign uo for a class, using the "Sign up" form. The form requires that the name and email field is filled out and also give the user the option to chose one of the three classes from the dropdown menu. The user has directly the option to sign up for a class of their choice, instead of calling or emailing in to book the specific class they want. 
+
+![image-sign-up]()
+
+- "Contact us section" 
+
+The contact us section provides the user with the address where the yoga studio is located but user has also the option the email, call or send a WhatsApp message to Yoga Club, if there are any questions in reagrds to the course or what to bring to the course. This gives the user the ability to already have the first contact with the yoag studio, if there are any questions or concerns. 
+
+![image-contact-us]()
+
