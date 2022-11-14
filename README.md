@@ -14,7 +14,7 @@ The naviagtion bar is seperated in four links, About us, Classes, Sign up and Co
 
 ![image navigation-bar]()
 
-- "About us" section 
+- "About us section"
 
 The About us section, provides the user with information about Yoga Club and also what Yoga Club offers to their yogis. The user will exaclty know what to expect from Yoga Club and it offereings. 
 
@@ -40,3 +40,32 @@ The contact us section provides the user with the address where the yoga studio 
 
 ![image-contact-us]()
 
+- "Footer" 
+
+The footer provides the social media pages of Yoga Club, which are being opened in a new tab. Users can have a look through the social media pages and get their first overview of Yoga Club. Social media links provide the users with more information about the studio and they can get to know the instructors, even before starting the class. 
+
+![image-footer]()
+
+## Testing 
+
+- 
+
+-
+
+-
+
+-
+
+## Bugs 
+
+
+## Validator Testing 
+
+- HTML 
+    - No errors were returned when passing through the offical W3C validator 
+
+- CSS
+    - No errors were returned when passing through the offical (Jigsaw) validator 
+
+- Accessibility 
+    - I confirmed that the website easy to read in reagrds to the choosen color and font and is accessible by running it through Lighthous in the Developer Tools in Chrome. The test has been completed for mobile and desktop. 
