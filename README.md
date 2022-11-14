@@ -111,4 +111,4 @@ https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_opac
 
 ## Media 
 
-- The images for the hero-image, classes and sign up was taken from Pexels. 
+- The images for the hero-image, classes and sign up was taken from [Pexels](https://www.pexels.com/search/yoga%20class/). 
