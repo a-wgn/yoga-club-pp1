@@ -64,11 +64,21 @@ The footer provides the social media pages of Yoga Club, which are being opened 
 - HTML 
     - No errors were returned when passing through the offical W3C validator 
 
+    ![image-HTML](https://user-images.githubusercontent.com/114663540/201789778-e8b20fa9-9230-448b-a099-8fcefdc63844.png)
+
 - CSS
     - No errors were returned when passing through the offical (Jigsaw) validator 
 
+    ![image-CSS](https://user-images.githubusercontent.com/114663540/201789984-82fa104d-3aca-46b9-89b1-70cee0ddab7b.png)
+
 - Accessibility 
     - I confirmed that the website easy to read in reagrds to the choosen color and font and is accessible by running it through Lighthous in the Developer Tools in Chrome. The test has been completed for mobile and desktop. 
+
+    Mobile
+    ![image-mobile](https://user-images.githubusercontent.com/114663540/201789727-16e20475-949d-41d8-8c91-63d544e75a40.png)
+
+    Desktop 
+    ![image-desktop](https://user-images.githubusercontent.com/114663540/201789681-9ef97b1b-9554-4bbb-8dad-f6b7a5a12101.png)
 
 ## Unfixed Bugs 
 
