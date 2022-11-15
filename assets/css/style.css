@@ -202,14 +202,15 @@ input[type=submit] {
   }
 
   #contact-email {
-    text-decoration: none;
+    color: black;
   }
 
   /* Footer styling */
 
   #footer-style {
-    text-align: center;
-    word-spacing: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
   }
 
   .fa {

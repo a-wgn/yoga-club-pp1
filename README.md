@@ -38,9 +38,9 @@ Users can sign uo for a class, using the "Sign up" form. The form requires that 
 
 - "Contact us section" 
 
-The contact us section provides the user with the address where the yoga studio is located but user has also the option the email, call or send a WhatsApp message to Yoga Club, if there are any questions in reagrds to the course or what to bring to the course. This gives the user the ability to already have the first contact with the yoag studio, if there are any questions or concerns. 
+The contact us section provides the user with the address where the yoga studio is located but user has also the option the email, call or send a WhatsApp message to Yoga Club, if there are any questions in reagrds to the course or what to bring to the course. This gives the user the ability to already have the first contact with the yoag studio, if there are any questions or concerns. The email address which is underlined is clickable and will open the email client of the user without copy and pasting the email.
 
-![image-contact-us](https://user-images.githubusercontent.com/114663540/201789121-e766aa34-8658-4182-85a0-f194eb9b75a7.png)
+![image-contact-us](https://user-images.githubusercontent.com/114663540/202003736-feb0fbfa-7914-47d3-8019-ca620d54a5d0.png)
 
 - "Footer" 
 
