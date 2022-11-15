@@ -48,8 +48,7 @@ h3 {
 #nav-bar li {
     float: right;
     list-style-type: none;
-    margin-right: 1.5em;
-    position: relative;
+    margin-right: 1.5rem;
 }
 
 #nav-bar a {
