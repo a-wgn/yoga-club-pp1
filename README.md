@@ -103,11 +103,16 @@ The live link can be found here - [Yoga Club](https://a-wgn.github.io/yoga-club-
 ## Credits 
 
 - The CSS code for the image overlay in the Classes section was taken from: 
-https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_opacity
+    - https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_opacity
 
-- The code for the social media icons was taken from: https://www.w3schools.com/icons/fontawesome_icons_brand.asp, https://www.w3schools.com/icons/fontawesome_icons_intro.asp
+- The code for the social media icons was taken from:   
+    - https://www.w3schools.com/icons/fontawesome_icons_brand.asp 
+    - https://www.w3schools.com/icons/fontawesome_icons_intro.asp
 
-- The text which part of the image overlay was taken from: https://www.healthline.com/health/fitness/yin-yoga-poses, https://www.byrdie.com/hot-yoga-5091939, https://www.healthline.com/health/exercise-fitness/hatha-vs-vinyasa
+- The text which part of the image overlay was taken from: 
+    - https://www.healthline.com/health/fitness/yin-yoga-poses 
+    - https://www.byrdie.com/hot-yoga-5091939
+    - https://www.healthline.com/health/exercise-fitness/hatha-vs-vinyasa
 
 ## Media 
 
