@@ -20,7 +20,7 @@ The naviagtion bar is seperated in four links, About us, Classes, Sign up and Co
 
 The About us section, provides the user with information about Yoga Club and also what Yoga Club offers to their yogis. The user will exaclty know what to expect from Yoga Club and its offereings. 
 
-![image-about-us](https://user-images.githubusercontent.com/114663540/201788944-afa64745-5620-43e0-928a-28ae137fcee6.png)
+![image-about-us](https://user-images.githubusercontent.com/114663540/202277568-1a87b4d5-5d23-4f37-94c5-976e3f84777a.png)
 
 - ### Classes sectition 
 
@@ -46,7 +46,7 @@ The contact us section provides the user with the address where the yoga studio 
 
 The footer provides three social media pages of Yoga Club, which are being opened in a new tab. Users can have a look through the social media pages and get their first overview of Yoga Club. Social media links provide the users with more information about the studio and they can get to know the instructors, even before starting the class. 
 
-![image-footer](https://user-images.githubusercontent.com/114663540/201789174-29dd2687-34e6-4b90-8d5e-79faa05ac3a0.png)
+![image-footer](https://user-images.githubusercontent.com/114663540/202277875-0ded9f1d-6666-434e-af13-3c0e7413b466.png)
 
 ## Testing 
 
@@ -59,6 +59,8 @@ The footer provides three social media pages of Yoga Club, which are being opene
 - I confirmed that the form works and requires entries in the name and email fields. User will not be able to submit the form when those fields are not filled out hen clicking on the submit button. 
 
 - I confirmed that the pages is respoinsive on standard screen sizes thorugh the devtools (device toolbar). 
+
+- Tested that the email address is clickable and opens the email client.
 
 ## Bugs 
 
