@@ -50,13 +50,15 @@ The footer provides three social media pages of Yoga Club, which are being opene
 
 ## Testing 
 
-- 
+- I tested that the page works on diffrerent browsers such as Chrome, Edge, Safari and Firefox.
 
--
+- I confirmed that the navigation bar works and brings the user to the correct section within the wpage. The header and the navigation bar are readbable and easy to understand. 
 
--
+- I confirmed that the overlay of the images in the classes section work as expected when hovering over them.
 
--
+- I confirmed that the form works and requires entries in the name and email fields. User will not be able to submit the form when those fields are not filled out hen clicking on the submit button. 
+
+- I confirmed that the pages is respoinsive on standard screen sizes thorugh the devtools (device toolbar). 
 
 ## Bugs 
 
