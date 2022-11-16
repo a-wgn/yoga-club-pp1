@@ -106,7 +106,7 @@ h3 {
   .image {
     display: block;
     height: auto;
-    width: auto;
+    width: 100%;
     transition: .5s;
     backface-visibility: hidden;
   }
