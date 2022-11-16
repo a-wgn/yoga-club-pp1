@@ -118,6 +118,9 @@ The live link can be found here - [Yoga Club](https://a-wgn.github.io/yoga-club-
     - https://www.byrdie.com/hot-yoga-5091939
     - https://www.healthline.com/health/exercise-fitness/hatha-vs-vinyasa
 
+- Font taken from: 
+    - https://fonts.google.com/
+
 ## Media 
 
 - The images for the hero-image, classes and sign up was taken from [Pexels](https://www.pexels.com/search/yoga%20class/). 
